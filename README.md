@@ -2,4 +2,4 @@
 
 ## Первый семестр
 
-* [Сортировки]() - [Условия]()
+* [Сортировки](https://github.com/dmitryviperr/Algorithms-and-Data-Structures/tree/main/lab1) - [Условия]()
