@@ -4,7 +4,7 @@
 
 using namespace std;
 
-class MinHeap
+class MaxHeap
 {
 private:
     vector<int> heap;        
